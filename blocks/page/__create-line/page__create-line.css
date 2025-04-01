@@ -1,0 +1,19 @@
+.page__create-line {
+    border: solid gray 2px;
+  }
+
+  .page__create-line--description {
+    margin-top: 100px;
+  }
+
+  .page__create-line--description-bottom,
+  .page__create-line--digits-bottom,
+  .page__create-line--techniques-bottom,
+  .page__create-line--feynman-bottom,
+  .page__create-line--main {
+    margin-bottom: 100px;
+  }
+
+  .page__create-line--resources-bottom {
+    margin-bottom: 217px;
+  }

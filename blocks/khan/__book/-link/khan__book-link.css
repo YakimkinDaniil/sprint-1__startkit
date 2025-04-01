@@ -1,0 +1,11 @@
+.khan__book-link {
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  opacity: 1;
+}
+
+.khan__book-link:hover {
+  opacity: 0.4;
+  transition: opacity 1s linear 1s;
+}

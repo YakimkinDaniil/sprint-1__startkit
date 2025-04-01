@@ -1,0 +1,17 @@
+.page__black-background {
+    background-color: #1f1f1f;
+    height: 90px;
+    width: 100%;
+  }
+  
+  .page__black-background-main {
+    background-color: #1f1f1f;
+    height: 60px;
+    width: 100%;
+  }
+  
+  .page__black-background-footer {
+    background-color: #1f1f1f;
+    height: 40px;
+    width: 100%;
+  }

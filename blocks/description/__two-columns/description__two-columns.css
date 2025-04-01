@@ -1,0 +1,6 @@
+.description__two-columns {
+    display: flex;
+    margin-left: 100px;
+    width: 80%;
+    min-width: 784px;
+  }

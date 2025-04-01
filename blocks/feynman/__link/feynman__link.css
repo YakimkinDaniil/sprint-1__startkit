@@ -1,0 +1,13 @@
+.feynman__link {
+    margin-right: 48px;
+    line-height: 51px;
+    font-size: 36px;
+    font-weight: normal;
+    text-align: end;
+    opacity: 1;
+  }
+  
+  .feynman__link:hover {
+    opacity: 0.4;
+    transition: opacity 1s linear 1s;
+  }
